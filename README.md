@@ -1,10 +1,4 @@
 ## Olá!!Eu sou o Weslley Holanda Santos, Estudante de ti apaixonado por tecnologia
-
-<div>
-  <a href="https://www.instagram.com/weslleysholanda" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/weslley-holanda-santos-865399209" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
-
 <li>🧑‍💼Estou em busca de uma vaga de estagio ti como desenvolvedor</li>
 <li>📚Estudando React</li><br>
 
