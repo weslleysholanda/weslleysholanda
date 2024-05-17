@@ -23,3 +23,5 @@
   <a href = "mailto:weslleyh98@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/weslley-holanda-santos-865399209" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
+
+  ![snake gif](https://github.com/weslleysholanda/weslleysholanda/blob/output/github-contribution-grid-snake.gif)
