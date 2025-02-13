@@ -1,6 +1,6 @@
 ## Olá!!Eu sou o Weslley Holanda Santos, Estudante de ti apaixonado por tecnologia
 <li>🧑‍💼 Estou em busca de uma vaga de estágio em TI como desenvolvedor.</li>
-<li>📚 Atualmente estudando React.</li><br>
+<li>📚 Atualmente estudando Php.</li><br>
 
 <a href='https://github.com/weslleysholanda'>
 <div align="center">
