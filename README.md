@@ -45,7 +45,7 @@
 
 <br>
 
-## 🎨 Ferramentas de Design
+ ## 🎨 Ferramentas de Design
 
 <div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50">
