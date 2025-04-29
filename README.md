@@ -12,7 +12,7 @@
 
 <br>
 
-## 📚 Sobre Mim
+<h2 align="center" style = "border-bottom: none;">📚 Sobre Mim</h2>
 
 <div align="center" style="font-size: 18px;">
 ✨ Desenvolvedor Web apaixonado por criar sistemas modernos e eficientes.<br>
@@ -27,7 +27,7 @@
 
 <br>
 
-## ⚙️ Tecnologias que utilizo
+<h2 align="center">⚙️ Tecnologias que utilizo</h2>
 
 <div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50">
@@ -45,7 +45,7 @@
 
 <br>
 
- ## 🎨 Ferramentas de Design
+<h2 align="center">🎨 Ferramentas de Design</h2>
 
 <div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50">
@@ -60,10 +60,10 @@
 
 <br>
 
-## 📈 Minhas Estatísticas
+<h2 align="center">📈 Minhas Estatísticas</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weslleysholanda&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weslleysholanda&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="36.5%;" max-width="100%" />
   <img src="https://github-readme-stats.vercel.app/api?username=weslleysholanda&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
 </div>
 
@@ -74,7 +74,7 @@
 
 <br>
 
-## 🌐 Onde me encontrar
+<h2 align = "center">🌐 Onde me encontrar</h2> 
 
 <div align="center">
   <a href="https://www.instagram.com/weslleysholanda" target="_blank">
