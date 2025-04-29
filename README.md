@@ -17,6 +17,7 @@
 <div align="center" style="font-size: 18px;">
 ✨ Desenvolvedor Web apaixonado por criar sistemas modernos e eficientes.<br>
 🚀 Sempre buscando evolução constante na área de TI.<br>
+🎯 Atualmente estudando Laravel e aprofundando conhecimentos em arquitetura backend.
 🎨 Especialista em prototipagem com Figma, Photoshop e Adobe XD.
 </div>
 
