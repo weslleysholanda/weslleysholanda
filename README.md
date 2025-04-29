@@ -13,10 +13,10 @@
 <h2 align="center" style = "border-bottom: none;">📚 Sobre Mim</h2>
 
 <div align="center" style="font-size: 18px;">
-✨ Desenvolvedor Web apaixonado por criar sistemas modernos e eficientes.<br>
-🚀 Sempre buscando evolução constante na área de TI.<br>
-🎯 Atualmente estudando Laravel e aprofundando conhecimentos em arquitetura backend.<br>
-🎨 Especialista em prototipagem com Figma, Photoshop e Adobe XD.
+✨ Desenvolvedor Web apaixonado por criar sistemas modernos, funcionais e eficientes. <br>
+🚀 Sempre em busca de evolução contínua na área de Tecnologia da Informação. <br>
+🎯 Atualmente focado nos estudos de Laravel e aprofundando conhecimentos em arquitetura backend. <br>
+🎨 Experiência sólida em prototipagem de interfaces com Figma, Photoshop e Adobe XD. <br>
 </div>
 
 <br>
