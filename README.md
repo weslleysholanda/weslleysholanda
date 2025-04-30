@@ -64,7 +64,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weslleysholanda&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="36.5%;" max-width="100%" />
   <img src="https://github-readme-stats.vercel.app/api?username=weslleysholanda&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=weslleysholanda&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+  
 </div>
 
 <br>
